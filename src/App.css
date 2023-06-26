@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.p-button:enabled:hover,
+.p-button:not(button):not(a):not(.p-disabled):hover {
+  background-color: white;
+  border: none;
+  color: #222;
+}
+.p-button:focus {
+  box-shadow: none !important;
+}
