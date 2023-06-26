@@ -10,7 +10,7 @@ const ContentSecond = () => {
 
   return (
     <div className="container-second" id="comunicacao">
-      <Dialog visible={visible} onHide={setVisible}>
+      <Dialog visible={visible} onHide={setVisible} dismissableMask>
         <img src={IMG} style={{ width: "800px" }} />
       </Dialog>
       <div className="info-one">

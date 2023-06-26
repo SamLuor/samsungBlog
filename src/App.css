@@ -4,6 +4,7 @@
 }
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-width: thin;
 }
 .p-button:enabled:hover,
 .p-button:not(button):not(a):not(.p-disabled):hover {
