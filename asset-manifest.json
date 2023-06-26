@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/samsungBlog/static/css/main.b516cc57.css",
-    "main.js": "/samsungBlog/static/js/main.2ebf765b.js",
+    "main.css": "/samsungBlog/static/css/main.118ce571.css",
+    "main.js": "/samsungBlog/static/js/main.f2ca2174.js",
     "static/js/787.d3332961.chunk.js": "/samsungBlog/static/js/787.d3332961.chunk.js",
     "static/media/backgroundTwo.png": "/samsungBlog/static/media/backgroundTwo.4f15457afbaaf383866b.png",
     "static/media/backgroundOne.jpg": "/samsungBlog/static/media/backgroundOne.3caa3653dea1477bf3a6.jpg",
@@ -40,12 +40,12 @@
     "static/media/perfil3.png": "/samsungBlog/static/media/perfil3.1caa3657e605d15e4728.png",
     "static/media/Stars.webp": "/samsungBlog/static/media/Stars.b86848a954dbf0772d1e.webp",
     "index.html": "/samsungBlog/index.html",
-    "main.b516cc57.css.map": "/samsungBlog/static/css/main.b516cc57.css.map",
-    "main.2ebf765b.js.map": "/samsungBlog/static/js/main.2ebf765b.js.map",
+    "main.118ce571.css.map": "/samsungBlog/static/css/main.118ce571.css.map",
+    "main.f2ca2174.js.map": "/samsungBlog/static/js/main.f2ca2174.js.map",
     "787.d3332961.chunk.js.map": "/samsungBlog/static/js/787.d3332961.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b516cc57.css",
-    "static/js/main.2ebf765b.js"
+    "static/css/main.118ce571.css",
+    "static/js/main.f2ca2174.js"
   ]
 }
