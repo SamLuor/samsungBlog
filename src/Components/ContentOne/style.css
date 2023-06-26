@@ -1,0 +1,15 @@
+.content-one {
+  background: url("../../assets/backgroundOne.jpg") center center no-repeat
+    fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  @apply w-screen h-screen bg-cover px-8 grid md:grid-cols-2 place-items-center;
+}
+
+.content-one .button-request {
+  @apply bg-white border-0 text-secundary font-medium;
+  @apply justify-self-start md:text-xl;
+  @apply hover:bg-slate-200 hover:text-secundary !important;
+}

@@ -1,0 +1,6 @@
+.p-sidebar {
+  @apply bg-primary text-white;
+}
+.p-sidebar a {
+  @apply text-2xl;
+}
